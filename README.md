@@ -47,7 +47,7 @@ I'm passionate about leveraging data and technology to solve real-world problems
 ##  **Projects**  
 -  [House Price Prediction Model](https://github.com/Techkene/House_Price_Prediction_Model): Built a model to predict house prices using advanced machine learning techniques.  
 -  [Fraud Detection System](https://github.com/DataFishers/Fraud_detection_model): Designed a fraud detection model for fintech applications, tailored to specific transaction types.  
-- 🌊 [Aquaens+](https://github.com/Techkene/KalokaApp): Developed a data-driven platform to help farmers monitor and optimize water quality and feed usage.  
+- 🌊 [aquaSense+](https://github.com/Techkene/KalokaApp): Developed a data-driven platform to help farmers monitor and optimize water quality and feed usage.  
 
 ---
 
